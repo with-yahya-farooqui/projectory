@@ -1,1 +1,1 @@
-GitHub for project ideas or research paper abstracts.
+App for project ideas or research paper abstracts.
